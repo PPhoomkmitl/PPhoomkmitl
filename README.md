@@ -1,4 +1,4 @@
-![This is an image](https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/272672025_342609987775076_3900480538401304083_n.png?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEEIZ9FWPOJ8Admrq4OSes5CxI6tLBIdYoLEjq0sEh1iopjNlbLjBqoZfm4GJWMqrxXdWuZVeNM_h3jIZ1Hidwo&_nc_ohc=0uYrgtr82NwAX-tTXKI&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJbq-fAhUMrbsAuDKUXRPrgQYu9efyPmdlkp5PBgrkIVA&oe=621D2D8F)
+![This is an image](1.png)
 ### Hey! 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
