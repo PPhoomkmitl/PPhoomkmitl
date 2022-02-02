@@ -13,6 +13,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=dracula"
 />
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) 
 ### 📝 Get Touch!
 <div style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/channel/UC1bJb9GAaRdcn7O_abQ-4sg/featured">
@@ -45,8 +46,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   align="center"
   src="https://github.com/PPhoomkmitl"
 />
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) 
 
-[![Rebelchris
+
+<!-- [![Rebelchris
 header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
-
+ -->
