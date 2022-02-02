@@ -1,13 +1,18 @@
+<!-- main picture profile -->
 <div align="center" style="justify-content: space-between;">
   <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/p960x960/272919761_4833903906699402_1889016058049590622_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGPukk4BE_Cs_wsgrVtgZpId3dfkM2BDQV3d1-QzYENBaIIiPWyk9cZKq4FQtPmE11abPQpoQNp7_xzoztle76g&_nc_ohc=WWsGCFEaehQAX8t7bOK&_nc_zt=23&_nc_ht=scontent.fbkk12-4.fna&oh=00_AT8Yn4WpCFFAm6Q6nDxKjG-rOVPZWOVYsANfuAXWULD7KQ&oe=61FE7966" width="1013" height="450" alt="main-pic">
 </div>
 
+<!-- note-1 -->
 # Hi there,I'm Phoomrapee Srifah 👋
 Now I'm a college student at : KMITL and I want to be a front-end developer.
+
+<!-- mystory -->
 ### ❤️❤️❤️ Look at them 👀👀👀
 - 🔭 I’m currently studying on : KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning : web development, learning UX/Ui, Application Mobile and more!
 - 😊 Funfact with me : Love to play video games!
+- 
 ### My stats!
 <img
   align="center"
@@ -17,8 +22,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PPhoomkmitl&theme=nord_dark)
 
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github)
+<!-- ### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) -->
 
 
 ### 📝 Get Touch!
@@ -55,6 +60,3 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 />
 
 
-<!-- [![Rebelchris
-header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
- -->
