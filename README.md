@@ -60,6 +60,6 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 />
  -->
 <div align="center" style="justify-content: space-between;">
-  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/273017752_4834117320011394_4723962988177814742_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEqylUsKFwDyyDdYXhwauP9R0a3eoUbOPFHRrd6hRs48SVKn1r_bVTUjfwakDr1iZpaRw2Ped2Cf5c2r5HIutKn&_nc_ohc=iI46HuwDM-YAX-BzwAd&_nc_zt=23&_nc_ht=scontent.fbkk13-2.fna&oh=00_AT9FDKiCAq7QyepVTLB_P5id4XKsMUKBGDBhVA6zyjigeg&oe=61FF59B1" width="1200" height="450" alt="main-pic">
+  <img src="https://scontent.fbkk13-2.fna.fbcdn.net/v/t39.30808-6/273017752_4834117320011394_4723962988177814742_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEqylUsKFwDyyDdYXhwauP9R0a3eoUbOPFHRrd6hRs48SVKn1r_bVTUjfwakDr1iZpaRw2Ped2Cf5c2r5HIutKn&_nc_ohc=iI46HuwDM-YAX-BzwAd&_nc_zt=23&_nc_ht=scontent.fbkk13-2.fna&oh=00_AT9FDKiCAq7QyepVTLB_P5id4XKsMUKBGDBhVA6zyjigeg&oe=61FF59B1" width="1200" height="300" alt="main-pic">
 </div>
 
