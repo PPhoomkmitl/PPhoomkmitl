@@ -45,9 +45,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   align="center"
   src="https://github.com/PPhoomkmitl"
 />
-[![][logo-url]][repo-url] 
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
-[repo-url]: https://github.com/saadeghi/daisyui
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) 
+
 [![Rebelchris
 header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
 
