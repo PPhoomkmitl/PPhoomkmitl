@@ -12,7 +12,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 - 🔭 I’m currently studying on : KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning : web development, learning UX/Ui, Application Mobile and more!
 - 😊 Funfact with me : Love to play video games!
-- 
+
 ### My stats!
 <img
   align="center"
@@ -54,9 +54,9 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   </a>
   <div></div>
 </div>
-<img
+<!-- <img
   align="center"
   src="https://github.com/PPhoomkmitl"
 />
-
+ -->
 
