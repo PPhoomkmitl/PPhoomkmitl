@@ -8,7 +8,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 - 🌱 I’m currently learning : web development, learning UX/Ui, Application Mobile and more!
 - 😊 Funfact with me : Love to play video games!
 </br>
-<div align="center" style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/channel/UC1bJb9GAaRdcn7O_abQ-4sg/featured">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"
