@@ -13,7 +13,7 @@ Now I'm a college student at KMITL and I want to be a front-end developer.
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"
       width="40"
-      height="40"
+      height="50"
       alt="YouTube-pic"
     />
   </a>
