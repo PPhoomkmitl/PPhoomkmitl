@@ -40,6 +40,10 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   align="center"
   src="https://github.com/PPhoomkmitl"
 />
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=dracula"
+/>
 
 [![Rebelchris
 header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
