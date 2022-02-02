@@ -8,6 +8,11 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 - 🔭 I’m currently studying on : KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning : web development, learning UX/Ui, Application Mobile and more!
 - 😊 Funfact with me : Love to play video games!
+### My stats!
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=dracula"
+/>
 ### 📝 Get Touch!
 <div style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/channel/UC1bJb9GAaRdcn7O_abQ-4sg/featured">
@@ -40,10 +45,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   align="center"
   src="https://github.com/PPhoomkmitl"
 />
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=dracula"
-/>
+
 
 [![Rebelchris
 header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
