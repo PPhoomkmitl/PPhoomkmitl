@@ -8,6 +8,33 @@ Now I'm a college student at KMITL and I want to be a front-end developer.
 - 🌱 I’m currently learning web development, learning UX/Ui, Application Mobile and more!
 - 📫 How to reach me: 
 </br>
+<div align="center" style="display: flex; justify-content: space-between">
+  <a href="https://www.youtube.com/channel/UC1bJb9GAaRdcn7O_abQ-4sg/featured">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"
+      width="40"
+      height="40"
+      alt="YouTube-pic"
+    />
+  </a>
+  <a href="https://web.facebook.com/phoomzamak/">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/640px-Facebook-icon-1.png"
+      width="40"
+      height="40"
+      alt="fb-pic"
+    />
+  </a>
+  <a href="https://www.instagram.com/pp.sfah/?hl=en">
+    <img
+      src="https://www.mmthailand.com/wp-content/uploads/2020/04/ig-icon.png"
+      height="40"
+      width="40"
+      alt="ig-pic"
+    />
+  </a>
+  <div></div>
+</div>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
