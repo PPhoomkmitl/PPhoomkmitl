@@ -1,7 +1,5 @@
-![This is an image](1.png)
+![This is an image](https://scontent.fbkk9-3.fna.fbcdn.net/v/t39.30808-6/p960x960/273148572_4833891620033964_9038826307768573293_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGiS-ShI4ddVuV3UPfL1IwIPJtQdF6za6U8m1B0XrNrpUlpGw7azO5bVX0iAg4Cnrdh-ieFSG6WiFmVQcVCTL-y&_nc_ohc=w_XswzHfmiMAX8QZ509&_nc_oc=AQkGDchYgNiOEjDtuB-0IxanZ2wLgww1dLfnd-mxMbUzYy0ldsa_xesMbprQ-IF6hmU&_nc_zt=23&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT-62_6tDvRkZOJdJJVDUDPjPirzOtzMlPoDxc1P2UcLYQ&oe=61FED067)
 ### Hey! 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
 
 <!--
 **PPhoomkmitl/PPhoomkmitl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
