@@ -6,7 +6,7 @@
 Now I'm a college student at KMITL and I want to be a front-end developer.
 - 🔭 I’m currently studying on KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning web development, learning UX/Ui, Application Mobile and more!
-- 📫 How to reach me: 
+- fu
 </br>
 <div align="center" style="display: flex; justify-content: space-between">
   <a href="https://www.youtube.com/channel/UC1bJb9GAaRdcn7O_abQ-4sg/featured">
@@ -35,6 +35,6 @@ Now I'm a college student at KMITL and I want to be a front-end developer.
   </a>
   <div></div>
 </div>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 
 
