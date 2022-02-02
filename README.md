@@ -38,7 +38,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 </div>
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=rebelchris&theme=dracula"
+  src="https://github.com/PPhoomkmitl"
 />
 
 [![Rebelchris
