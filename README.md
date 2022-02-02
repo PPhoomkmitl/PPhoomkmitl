@@ -4,7 +4,7 @@ Now I'm a college student at KMITL and I want to be a front-end developer.
 - 🔭 I’m currently studying on KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning web development, learning UX/Ui, Application Mobile and more!
 - 📫 How to reach me: 
+<br>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-https://accounts.spotify.com/authorize?client_id=<your_client_id>&response_type=code&redirect_uri=<encoded_callback_uri>&scope=user-read-currently-playing%20user-read-playback-state&state=34fFs29kd09
 
 
