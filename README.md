@@ -16,7 +16,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 ### My stats!
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl"
+  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=github"
 />
 ### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=nord_dark)
@@ -24,7 +24,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 
 
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl
+ )
 ### 🛠️ Tools 🛠️
 
 <p align="start">
