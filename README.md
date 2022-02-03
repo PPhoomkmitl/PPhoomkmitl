@@ -24,7 +24,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 
 
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github)
+ 
 ### 🛠️ Tools 🛠️
 
 <p align="start">
