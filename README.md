@@ -25,6 +25,43 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 
 <!-- ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) -->
+### Tools
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="Python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
 
 
 ### 📝 Get Touch! 📝
