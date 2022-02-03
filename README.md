@@ -36,6 +36,14 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
       height="40"
     />
   </a>
+    <a href="https://www.programiz.com/c-programming" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+      alt="C"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
@@ -52,14 +60,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
       height="40"
     />
   </a>
-    <a href="https://www.programiz.com/c-programming" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="C"
-      width="40"
-      height="40"
-    />
-  </a>
+  
 
 
 
