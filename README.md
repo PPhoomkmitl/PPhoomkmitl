@@ -38,7 +38,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   </a>
   <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
       alt="C"
       width="40"
       height="40"
