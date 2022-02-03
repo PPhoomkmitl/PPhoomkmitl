@@ -23,8 +23,8 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PPhoomkmitl&theme=nord_dark)
 
 
-<!-- ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github) -->
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github)
 ### 🛠️ Tools 🛠️
 
 <p align="start">
