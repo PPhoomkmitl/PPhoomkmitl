@@ -20,7 +20,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 />
 ### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PPhoomkmitl&theme=nord_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPhoomkmitl&&theme=radical)
 
 
 <!-- ### 📈 GitHub Activity Graph:
