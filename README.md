@@ -4,7 +4,7 @@
 </div>
 
 <!-- note-1 -->
-# Hi there,I'm Phoomrapee Srifah 👋
+# Hi there,I'm Phoomrapee Srifah 👋 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 Now I'm a college student at : KMITL and I want to be a front-end developer.
 
 <!-- mystory -->
