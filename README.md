@@ -20,13 +20,13 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   src="https://github-readme-stats.vercel.app/api?username=PPhoomkmitl&show_icons=true&theme=radical"
 />
 ### 👨‍💻 Top Languages Used:
-![Most Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=nodes)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PPhoomkmitl&&theme=radical)
 
 
-<!-- ### 📈 GitHub Activity Graph:
- ![GitHubActivityGraph](https://activity-graph.herokuapp.com/graph?username=PPhoomkmitl&theme=github)
-  -->
+ ### 📈 GitHub Activity Graph:
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PPhoomkmitl&theme=default)
+ 
 ### 🛠️ Tools 🛠️
 
 <p align="start">
