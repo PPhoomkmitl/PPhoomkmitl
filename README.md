@@ -16,7 +16,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
 ### My stats!
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=PPhoomkmitl&theme=github"
+  src="https://github-readme-stats.vercel.app/api?username=PPhoomkmitl&show_icons=true&theme=radical"
 />
 ### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PPhoomkmitl&theme=nord_dark)
