@@ -1,7 +1,5 @@
 <!-- main picture profile -->
-<div align="center" style="justify-content: space-between;">
-  <img src="https://media.discordapp.net/attachments/903318261758840863/955883021775568926/unknown.png?width=1165&height=703">
-</div>
+
 
 <!-- note-1 -->
 # Hi there,I'm Phoomrapee Srifah <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
