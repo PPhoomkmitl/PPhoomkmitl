@@ -31,7 +31,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="Python"
+      alt="Java"
       width="40"
       height="40"
     />
@@ -39,7 +39,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
     <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="C"
+      alt="HTML"
       width="40"
       height="40"
     />
@@ -47,7 +47,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="C"
+      alt="CSS"
       width="40"
       height="40"
     />
@@ -55,7 +55,7 @@ Now I'm a college student at : KMITL and I want to be a front-end developer.
   <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="C"
+      alt="Javascript"
       width="40"
       height="40"
     />
