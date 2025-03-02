@@ -4,13 +4,13 @@
 <!-- note-1 -->
 # Hi there,I'm Phoomrapee Srifah <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-Now I'm a college student at : KMITL and I want to be a full-stack developer.
+I am currently a college student at KMITL, and I aspire to become a full-stack developer.
 
 <!-- mystory -->
 ### ❤️❤️❤️ Look at them 👀👀👀
 - 🔭 I’m currently studying on : KMITL (Faculty of Computer Science)
 - 🌱 I’m currently learning : webapp development, learning UX/Ui, application mobile and more!
-- 😊 Funfact with me : Love to play video games!
+- 😊 Funfact with me : I enjoy playing video games, especially Dota2!
 
 ### My stats!
 <img
